@@ -6,4 +6,4 @@ verb = ("work", "play", "listen", "walk", "talk")
 
 sentence = random.choice(article) + ' ' + random.choice(noun) + ' ' + random.choice(verb)
 
-print(sentence);
+print(sentence)
